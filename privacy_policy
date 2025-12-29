@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="index,follow" />
+  <title>隱私權政策｜南寮導覽</title>
+  <style>
+    body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.7;margin:0;background:#fff;color:#111}
+    header{padding:28px 18px;border-bottom:1px solid #eee}
+    main{max-width:860px;margin:0 auto;padding:22px 18px 44px}
+    h1{font-size:26px;margin:0 0 8px}
+    .meta{color:#666;font-size:14px}
+    h2{margin:26px 0 8px;font-size:18px}
+    p,li{font-size:15.5px}
+    ul{padding-left:18px}
+    .box{background:#fafafa;border:1px solid #eee;border-radius:12px;padding:14px 14px;margin:14px 0}
+    a{color:#0b57d0;text-decoration:none}
+    a:hover{text-decoration:underline}
+    footer{border-top:1px solid #eee;padding:18px;color:#666;font-size:14px}
+    code{background:#f2f2f2;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>隱私權政策（Privacy Policy）｜南寮導覽</h1>
+    <div class="meta">最後更新日期：2025-12-29</div>
+  </header>
+
+  <main>
+    <p>
+      「南寮導覽」（以下簡稱「本應用程式」）重視並保護使用者的隱私權與資料安全。
+      本隱私權政策說明本應用程式在提供導覽服務時，如何蒐集、使用及保護使用者資訊。
+    </p>
+
+    <div class="box">
+      <strong>重點摘要</strong>
+      <ul>
+        <li>本應用程式不要求註冊帳號。</li>
+        <li>本應用程式不會主動蒐集可直接識別個人身分的資料（例如姓名、身分證號、地址）。</li>
+        <li>如使用第三方服務（例如地圖/分析），可能依其政策蒐集必要資訊。</li>
+      </ul>
+    </div>
+
+    <h2>一、資料蒐集說明</h2>
+    <p>本應用程式為觀光導覽用途，於一般使用情況下，可能產生下列資訊（多為非個人識別資訊）：</p>
+    <ul>
+      <li>裝置資訊：例如裝置型號、作業系統版本、語言設定等。</li>
+      <li>使用紀錄/診斷資訊：例如功能使用情形、錯誤紀錄（用於排除問題與改善品質）。</li>
+    </ul>
+    <p>上述資訊主要用於維護與改善本應用程式的穩定性與使用體驗。</p>
+
+    <h2>二、資料使用方式</h2>
+    <ul>
+      <li>提供與維護導覽功能</li>
+      <li>改善使用者體驗與介面設計</li>
+      <li>分析應用程式效能與錯誤修正</li>
+    </ul>
+    <p><strong>本應用程式不會將資料用於廣告投放或行銷用途。</strong></p>
+
+    <h2>三、第三方服務</h2>
+    <p>
+      本應用程式可能在功能必要時使用第三方服務（例如地圖或分析服務）。
+      該第三方服務可能依其隱私權政策蒐集與處理資訊。本應用程式僅在必要範圍內使用相關服務，
+      並不會主動出售或不當分享使用者資料。
+    </p>
+
+    <h2>四、資料安全</h2>
+    <p>
+      本應用程式採取合理的技術與管理措施以保護資訊安全，降低未經授權存取、竄改或洩漏的風險。
+      然而，網路傳輸仍可能存在不可預期之風險，敬請理解。
+    </p>
+
+    <h2>五、兒童隱私</h2>
+    <p>
+      本應用程式並非以未滿 13 歲之兒童為主要對象，亦不會刻意蒐集未滿 13 歲兒童之個人資料。
+      若您認為我們可能不慎蒐集到兒童資料，請透過下方聯絡方式通知，我們將儘速處理。
+    </p>
+
+    <h2>六、隱私權政策更新</h2>
+    <p>
+      本政策可能因應功能或法規需求而更新，更新後將公布於此頁面，不另行個別通知。
+      建議您定期查閱以掌握最新內容。
+    </p>
+
+    <h2>七、聯絡方式</h2>
+    <p>
+      若您對本隱私權政策有任何疑問，請與我們聯絡：<br />
+      📧 Email：<a href="mailto:your@email.com">your@email.com</a>
+    </p>
+
+    <div class="box">
+      <strong>提示：</strong>
+      若你之後有使用「定位、相機、麥克風、相簿」等權限，隱私權政策建議加上對應說明（我也可以幫你補齊）。
+    </div>
+  </main>
+
+  <footer>
+    © 2025 南寮導覽. All rights reserved.
+  </footer>
+</body>
+</html>
